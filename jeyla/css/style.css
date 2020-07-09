@@ -1,0 +1,185 @@
+
+#star{
+	background: url(../images/jeyk.png) no-repeat center top / cover;
+	height: 600px;
+}
+
+header {
+	background-color: #fff2cc;
+	background:    -moz-linear-gradient(#ffcccc, #293f50);
+	border: 0;
+	height: 90px;
+	width: 100%;
+	display: block;
+	display: flex;
+}
+.container{
+	width: 1200px;
+	margin: 9 auto;
+}
+.logo {
+	margin-top: 10px;
+	float: center;
+}
+nav {
+	float: right;
+	margin-top: 37px;
+}
+.menu{
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+.menu li {
+	float: left;
+    display: block;
+    margin-right: 44px;
+
+}
+ .menu li a {
+ 	color: #FF9966;
+ 	font-family:  'Noto Sans TC', sans-serif;
+ 	text-decoration: none;
+ 	text-transform: uppercase;
+ 	font-size: 14px;
+
+ }
+
+h1 {
+ 	font-size: 70px;
+ 	color:#fff;
+ 	text-transform: uppercase;
+ 	text-align: left;
+ 	margin-top: 300px;
+ 	font-family: 'Piedra', cursive;
+ 	color:#ffbf80;
+
+ }
+ .clearfix:after {
+ 	content: '';
+ 	display: table;
+ 	width: 100%;
+ 	clear: both;
+ }
+ .button {
+ 	background:#ff9966;
+ 	border-radius: 3px;
+ 	display:block;
+ 	width: 180px;
+ 	padding: 20px 0;
+ 	margin:0 auto;
+ 	text-decoration: none;
+ 	float: left;
+ 	text-align: center;
+ 	font-weight: bold;
+ 	font-size: 18px;
+ 	margin-top: 25px;
+ 	color: #fff;
+ }
+ .title {
+  padding-top: 85px;
+ }
+ .title h2 {
+ 	font-size: 45px;
+ 	font-weight: bold;
+ 	text-align: center;
+ 	text-transform: uppercase;
+ 	margin: 0;
+ 	font-family: 'Fredericka the Great', cursive;
+ 	color: #ff9966;
+ }
+ .title p {
+ 	color: #777777;
+ 	text-align: center;
+ 	font-size: 19px;
+ 	margin-top: 7px;
+ 	color:  #666666;
+ }
+ .family {
+ 	margin-top: 100px;
+ 	padding-bottom: 80px;
+ }
+ .family__item {
+ 	width: 270px;
+ 	float:left;
+ 	text-align: center;
+ }
+ .family__item h3 {
+ 	font-size: 18px;
+ 	margin-bottom: 10px;
+
+ }
+ .family__item p {
+ 	color: #666666;
+ 	font-size: 14px;
+ 	line-height: 1.6em;
+
+ }
+ .family__item:last-child {
+ 	float: right;
+ }
+ .family__item:nth-child(2) {
+ 	margin-left: 185px;
+ }
+ #photo {
+ 	background: #e0e0d1;
+ 	padding-bottom: 120px;
+
+ }
+ .photos {
+ 	margin-top: 70px;
+ }
+ .photos img {
+ 	float: left;
+ }
+ .photos img:last-child {
+ 	float: right;
+ }
+ .photos img:nth-child(2) {
+ 	margin-left: 82px;
+ }
+ .photos1 img{
+ 	float: left;
+ }
+ .photos1 img:last-child {
+ 	float: right;
+ 	margin-right: 20px;
+ }
+ .photos1 img:nth-child(2) {
+ 	margin-left: 67px;
+ }
+
+ .photos2 {
+ 	margin-top: 70px;
+ }
+ .photos2 img {
+ 	float: left;
+ }
+ .photos2 img:last-child {
+ 	float: right;
+ 	margin-right: 87px;
+ }
+ .photos2 img:nth-child(2) {
+ 	margin-left: 46px;
+ }
+  .photos2 img:nth-child(1) {
+ 	margin-left: 90px;
+ }
+
+.sb{
+	display: inline-block;
+	height: 32px;
+	width: 32px;
+	border: 55px ;
+	color: #777777;
+	border-radius: 30px;
+	font-size: 16px;
+	
+}
+ul{
+	list-style-type: none;
+
+}
+li{
+	display: inline-block;
+}
